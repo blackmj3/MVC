@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
             }
           }
         }

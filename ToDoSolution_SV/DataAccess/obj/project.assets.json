@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\NewMvc\\ToDoSolution_SV\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
